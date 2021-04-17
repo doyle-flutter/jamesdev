@@ -19,11 +19,12 @@
 <!--  <link rel="manifest" href="https://doyle-flutter.github.io/jamesdev/manifest.json">-->
   <link rel="manifest" href="./manifest.json">
   <style>
-    div.gPagesAds{
+    div.kakaofit{
       position: fixed;
-      botton: 0;
+      bottom: 0;
       left: 0;
       right: 0;
+      z-index:999;
     }
   </style>
 </head>
@@ -31,7 +32,7 @@
   <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('flutter-first-frame', function () {
-        navigator.serviceWorker.register('flutter_service_worker.js?v=3759182352');
+        navigator.serviceWorker.register('flutter_service_worker.js?v=854491309');
       });
     }
   </script>
@@ -39,10 +40,13 @@
 <!--  <script src="https://doyle-flutter.github.io/jamesdev/main.dart.js" type="application/javascript"></script>-->
 
   <!-- gpages KakaOFit -->
-  <ins class="kakao_ad_area" style="display:none;"
-       data-ad-unit    = "DAN-LWvH7K3WqVHMTQV1"
-       data-ad-width   = "320"
-       data-ad-height  = "100"></ins>
-  <script type="text/javascript" src="//t1.daumcdn.net/kas/static/ba.min.js" async></script>
+  <div class="kakaofit">
+    <ins class="kakao_ad_area" style="display:none;"
+         data-ad-unit    = "DAN-LWvH7K3WqVHMTQV1"
+         data-ad-width   = "320"
+         data-ad-height  = "100"></ins>
+    <script type="text/javascript" src="//t1.daumcdn.net/kas/static/ba.min.js" async></script>
+  </div>
+
 </body>
 </html>
