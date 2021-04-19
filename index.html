@@ -33,13 +33,17 @@
       right: 0;
       z-index:999;
     }
+    body{
+      padding:0;
+      margin:0;
+    }
   </style>
 </head>
 <body>
   <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('flutter-first-frame', function () {
-        navigator.serviceWorker.register('flutter_service_worker.js?v=2453930630');
+        navigator.serviceWorker.register('flutter_service_worker.js?v=737032134');
       });
     }
   </script>
