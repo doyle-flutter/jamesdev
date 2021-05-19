@@ -54574,7 +54574,7 @@ return C.F.e8(window,s,"new tab")},
 $S:0}
 X.AF.prototype={
 L:function(a,b){var s=null,r=$.a7p(),q=$.a4H()
-return M.ae(s,T.c7(H.a([L.al("\uc548\ub155\ud558\uc138\uc694, \uc81c\uc784\uc4f0\uc785\ub2c8\ub2e4 \ud83d\ude08",s),L.al("with Flutter 2.0 Web & Github Pages & KakaO AdFit",$.a4E()),L.al("\ud558\ub2e8 \uad11\uace0 \ubc30\ub108\ub294 \uc218\uc775\uc744 \ucc3d\ucd9c\ud558\uc9c0 \uc54a\ub294 \uad6c\ud604 \uc608\uc2dc\uc785\ub2c8\ub2e4",A.cH(s,s,C.mZ,s,s,s,s,s,s,s,s,10,s,s,s,s,!0,s,s,s,s,s,s))],t.p),C.O,C.J,C.r),s,s,s,s,q,r,s)}}
+return M.ae(s,T.c7(H.a([L.al("\uc548\ub155\ud558\uc138\uc694, \uc81c\uc784\uc4f0\uc785\ub2c8\ub2e4 \ud83d\ude08",s),L.al("with Flutter 2.2 Web & Github Pages & KakaO AdFit",$.a4E()),L.al("\ud558\ub2e8 \uad11\uace0 \ubc30\ub108\ub294 \uc218\uc775\uc744 \ucc3d\ucd9c\ud558\uc9c0 \uc54a\ub294 \uad6c\ud604 \uc608\uc2dc\uc785\ub2c8\ub2e4",A.cH(s,s,C.mZ,s,s,s,s,s,s,s,s,10,s,s,s,s,!0,s,s,s,s,s,s))],t.p),C.O,C.J,C.r),s,s,s,s,q,r,s)}}
 S.Bt.prototype={
 L:function(a,b){var s=null,r=$.L5(),q=this.c,p=H.a9(q).j("ad<1,k>")
 return new X.kt(T.c7(H.a([M.ae(s,L.al("Noti,",$.L4()),s,s,s,s,s,r,s),M.ae(s,T.c7(P.aj(new H.ad(q,new S.SA(),p),!0,p.j("aJ.E")),C.a4,C.J,C.r),s,s,s,s,s,s,s)],t.p),C.a4,C.J,C.r),s)}}
