@@ -5,9 +5,9 @@ const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "googled02db978e3010af6.html": "5e4e1d5f23c4fe4caa1030356dda9731",
 "version.json": "283989248167bae082ea5f37b1ed3a32",
-"index.html": "fe9fe7164c99d1713d05d30e46a63d36",
-"/": "fe9fe7164c99d1713d05d30e46a63d36",
-"main.dart.js": "c5f337106fbe053814de338061476c4f",
+"index.html": "5e6f716794ac2237942d62a92160c334",
+"/": "5e6f716794ac2237942d62a92160c334",
+"main.dart.js": "89039dca9d030b5b4e727a59c8641c42",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
@@ -28,6 +28,7 @@ const RESOURCES = {
 ".git/objects/9b/5047c3e3e716abd318fe5f8252b960a32033d3": "21ffb00f41dfae6942727c7826ded9c9",
 ".git/objects/04/7817694bb4b8f01572821cfa35f89b5002c548": "3520a6bd7793b24332ee795315c348ea",
 ".git/objects/04/d36648a5ccfe0f6799f0c22ac8e242d27b9fea": "90b82d8a6b7927d23c2bba0833be72b2",
+".git/objects/6a/b6f35314d8e22f5827ebb1fe20244db93f2a56": "fd4467daee9f6d122c942948087f3c1c",
 ".git/objects/6a/ecd2abb267bf70520c5ef3a23e3bda2b58de09": "bd9c3e3a212d35d0bd0cca56282d0f52",
 ".git/objects/32/bb5ea611c3b08740dfc4abf8bfe6f074444f8b": "e2e1dbd494355e3a9dae5c04bb377405",
 ".git/objects/32/46ad559eeae0370195978eaed83f1053ee13fd": "a043dbc0a0bda96ce2127799ccc27506",
@@ -37,6 +38,7 @@ const RESOURCES = {
 ".git/objects/56/1c6248682ef34f58de7f4d8b54d2a8d7f9df87": "e083acbeaf0d24d331bfc2c4c527b651",
 ".git/objects/56/b3ee45f7c117613dd94a302ab0f15fa45da2e2": "a41e99fc6ecf2af5bbec821f03fc41ee",
 ".git/objects/3d/bf0151461e8534f1dbe6d0557ce251b1cedb0e": "c5a372604397df0bdfc71732cf71c756",
+".git/objects/58/b1a8bf48f798477436dc23d8a0add319eff67f": "cc79062c270fb38033f5e7c0cb7024fb",
 ".git/objects/67/39b9269121239e518dc71e5bcd04fa2a56fbb6": "87fcd124a4e8418d4c2e7353316fc8fd",
 ".git/objects/0b/b4ec79a5619b534b761d5a01b1f6c47e07f6a2": "5ff8cf8988603780f0ab066d86252483",
 ".git/objects/0b/f59987261fd9bd943f378a92a5aaa89e755b32": "07bb15ab8808a4ee33d2480ec50152c4",
@@ -87,6 +89,7 @@ const RESOURCES = {
 ".git/objects/16/83682b76fe557d609d23557d9a3643b7d628d5": "71da82286c7bd7856a8ab91ab9f3edd7",
 ".git/objects/89/d6ee238e75474879a31477b21d36006adaf2aa": "6d89cd1c7d3c62a5b07d5f8fd02bb4f0",
 ".git/objects/89/e1a33949acd95ee02be6a3ed6ef8ceb88bf9cc": "86267d048fc7f462d0d37282e071a996",
+".git/objects/45/839da4b134a268f1a90ff5643deb0b813d7bf5": "b8c4ee09050081f951bf820e0db916a1",
 ".git/objects/1f/33a7ae443be2ebaaa7f65cbb956e2ee9bd72dc": "39093f007bc6eae014547fba2a66c200",
 ".git/objects/80/9ad592f38747b11c1cb94600a79129504457d6": "30ee14c6de7e3d5f793f85d23106b81e",
 ".git/objects/80/016003f9aff69ff3c78ea2d67c7b51cc82e790": "be0579764c310bf76193deb690f3b099",
@@ -134,6 +137,7 @@ const RESOURCES = {
 ".git/objects/97/84f130cb0182db991a8b9e9370acbb9450570e": "2b0501a7cc9c23b41a347cf5cecd142c",
 ".git/objects/63/e9f7b5cb3a263076fe27184455f50296bfe264": "c1cfbfc805c4f00e83bdeba1d5fb0650",
 ".git/objects/0f/49e4192953b0a863a622eba6b4ffe5eef50e0f": "8b0139f02a041a53724bc57422dbbc5f",
+".git/objects/bf/465f3e321903bbc984345d81d1e87d853623a2": "639443d90a01664af0e7bdf8aa658754",
 ".git/objects/bf/eb31c9502418943a20156f1ed3a80a411e8046": "9e18ce050448741f2501bc130f94d6f8",
 ".git/objects/d3/e8fbc173cd8ae5d4c1538e093ff5d04a3b1c0b": "cb2a71287a20214e20f3b3158b4daeb8",
 ".git/objects/d4/ff827b5ae1f284f47637878fef59a1b85100ce": "5dcbb4cd9e16594b07af1fd6a195f155",
@@ -145,6 +149,7 @@ const RESOURCES = {
 ".git/objects/a9/62879a75f25d9add57b98eec35f20715f0e51b": "83548d08ab582196d880a784b7cd19e8",
 ".git/objects/af/483a5fed6f136d27914758b6c79cc5908ce94a": "7a1a2f5d46e7b49aaab9b3bf48f1903b",
 ".git/objects/af/fcbd7c3ca6e1daf16e636cc28272785bb2f401": "2f6bf9856cbce04fcf39730757cdbd91",
+".git/objects/b7/d926537736d0356ddf9fef37cd6a8f4e0de29a": "951794a77d9d1ecc67b11104184f0ae9",
 ".git/objects/b7/49bfef07473333cf1dd31e9eed89862a5d52aa": "36b4020dca303986cad10924774fb5dc",
 ".git/objects/db/1d9fa5a3058ebd89d1c24295da1ddb5fe2014b": "9e9257d7c7b6fa1c5adb8468ce1c2c33",
 ".git/objects/a8/beffd3ad4fe54d6cabccf83a05477d6a986cd0": "6677888e4a051c7838b5b240c09f0981",
@@ -196,9 +201,9 @@ const RESOURCES = {
 ".git/objects/25/36f09c543dfbdf694687020a2567620acb6c13": "5bacc1e4befc0a356a21d34370cb0e5f",
 ".git/HEAD": "cf7dd3ce51958c5f13fece957cc417fb",
 ".git/info/exclude": "0aebccfd5866bfc3e7c8f625230c22f7",
-".git/logs/HEAD": "77b956ff94181076db890c730fdbaceb",
-".git/logs/refs/heads/main": "01678aceb4be9baa8f262495f9db62eb",
-".git/logs/refs/remotes/origin/main": "2951d3fab6682a073184589ba2d87d5e",
+".git/logs/HEAD": "d1ba3c8c7d1d12c6c994c1d68d5f613f",
+".git/logs/refs/heads/main": "99e90d2d4cd24ab0c0cddf0bfc6f7c1e",
+".git/logs/refs/remotes/origin/main": "b953b8ac820137b3325ac3d9d7c395d2",
 ".git/description": "a0a7c3fff21f2aea3cfa1d0316dd816c",
 ".git/hooks/commit-msg.sample": "579a3c1e12a1e74a98169175fb913012",
 ".git/hooks/pre-rebase.sample": "56e45f2bcbc8226d2b4200f7c46371bf",
@@ -211,15 +216,15 @@ const RESOURCES = {
 ".git/hooks/pre-applypatch.sample": "054f9ffb8bfe04a599751cc757226dda",
 ".git/hooks/pre-push.sample": "3c5989301dd4b949dfa1f43738a22819",
 ".git/hooks/update.sample": "517f14b9239689dff8bda3022ebd9004",
-".git/refs/heads/main": "bc4de8f3de3cf57e224cd217be4babe6",
-".git/refs/remotes/origin/main": "bc4de8f3de3cf57e224cd217be4babe6",
-".git/index": "42debbdcba45e69c3af9c416d75b1904",
+".git/refs/heads/main": "9e5a1fd4bbfbaf420d282cbd572d2da9",
+".git/refs/remotes/origin/main": "9e5a1fd4bbfbaf420d282cbd572d2da9",
+".git/index": "9af7ed362c9a85b3032ad46f8bec3dab",
 ".git/COMMIT_EDITMSG": "ed384f58875d01e242293142eed75a7a",
 "assets/AssetManifest.json": "c1d754e694c08ea2b8dd2c24769a13f4",
-"assets/NOTICES": "1a8f55acf3c41785067d71bdf0e85886",
+"assets/NOTICES": "2a01f085a458f59ad9ffd227daf5b2a0",
 "assets/FontManifest.json": "ed4c868b2632ae750315c00837950a8c",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
-"assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
+"assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
 "assets/assets/fonts/noto.otf": "913f146b0200b19b17eb4de8b4427a9c"
 };
 
@@ -238,7 +243,7 @@ self.addEventListener("install", (event) => {
   return event.waitUntil(
     caches.open(TEMP).then((cache) => {
       return cache.addAll(
-        CORE.map((value) => new Request(value, {'cache': 'reload'})));
+        CORE.map((value) => new Request(value + '?revision=' + RESOURCES[value], {'cache': 'reload'})));
     })
   );
 });
